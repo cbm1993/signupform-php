@@ -18,7 +18,8 @@ Implementing robust security measures, seamless user experiences, and efficient 
 
 Ultimately, the aim is to create a seamless and user-friendly authentication system that meets the highest standards of reliability and security, providing a solid foundation for future development and expansion of the platform's capabilities.
 
-![alt text](https://github.com/cbm1993/signupform-php/signupform.jpg?raw=true)
+![alt text](https://github.com/cbm1993/signupform-php/blob/main/signupform.jpg)
+
 
 
 
